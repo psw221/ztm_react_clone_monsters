@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ztm_react_clone_monsters/static/css/main.7b3701b5.chunk.css",
+    "main.js": "/ztm_react_clone_monsters/static/js/main.bc94b044.chunk.js",
+    "main.js.map": "/ztm_react_clone_monsters/static/js/main.bc94b044.chunk.js.map",
+    "runtime-main.js": "/ztm_react_clone_monsters/static/js/runtime-main.869e8a35.js",
+    "runtime-main.js.map": "/ztm_react_clone_monsters/static/js/runtime-main.869e8a35.js.map",
+    "static/js/2.00534685.chunk.js": "/ztm_react_clone_monsters/static/js/2.00534685.chunk.js",
+    "static/js/2.00534685.chunk.js.map": "/ztm_react_clone_monsters/static/js/2.00534685.chunk.js.map",
+    "static/js/3.8a5726d2.chunk.js": "/ztm_react_clone_monsters/static/js/3.8a5726d2.chunk.js",
+    "static/js/3.8a5726d2.chunk.js.map": "/ztm_react_clone_monsters/static/js/3.8a5726d2.chunk.js.map",
+    "index.html": "/ztm_react_clone_monsters/index.html",
+    "static/css/main.7b3701b5.chunk.css.map": "/ztm_react_clone_monsters/static/css/main.7b3701b5.chunk.css.map",
+    "static/js/2.00534685.chunk.js.LICENSE.txt": "/ztm_react_clone_monsters/static/js/2.00534685.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.869e8a35.js",
+    "static/js/2.00534685.chunk.js",
+    "static/css/main.7b3701b5.chunk.css",
+    "static/js/main.bc94b044.chunk.js"
+  ]
+}
